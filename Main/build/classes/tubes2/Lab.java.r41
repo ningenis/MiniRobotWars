@@ -1,0 +1,23 @@
+package tubes2;
+
+import java.lang.Object;
+import java.util.*;
+
+public class Lab {
+	private Player pemain;
+	private ArrayList selledRobot;
+	private ArrayList selledItem;
+
+	public Lab(Player pemain) {
+		ArrayList selledItem = new ArrayList();
+		ArrayList selledRobot = new ArrayList();
+		this.pemain = pemain;	
+	}
+	public void viewSparePart() {
+
+	}
+	public void buy() {
+
+	}
+}
+
